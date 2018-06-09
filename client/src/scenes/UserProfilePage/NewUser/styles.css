@@ -1,0 +1,23 @@
+.user-detail-form{
+	margin-bottom: 10%;
+}
+.user-detail-form .text-line {
+    margin-bottom: 10px;
+}
+.user-detail-form .button-line button {
+    margin-top: 20px;
+}
+.form-control {
+    min-width: 195px;
+    max-width: 300px;
+}
+.chips-select{
+    display: flex;
+    flex-wrap: wrap;
+}
+.user-detail-form input {
+    width: 250px;
+}
+.user-detail-form .text-line p{
+	max-width: 250px;
+}

@@ -1,0 +1,25 @@
+html.table {
+	display: flex;
+}
+tr > td.inline-table { 
+	padding: 0;
+    padding-bottom: 10px;
+    background-color: lightgrey;
+}
+td.inline-table.no-padding {
+	padding-right: 0;
+}
+.table-dropdown-absolute {
+	position: absolute;
+}
+.filter-input {
+	max-width: 120px;
+}
+div.filter-chip {
+	background-color: brown;
+    color: white;
+    margin-left: -10px;
+}
+.table-width-full {
+	width:100%;
+}

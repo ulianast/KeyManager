@@ -1,0 +1,8 @@
+const path = require('path');
+
+module.exports = {
+  "config": path.resolve('./config', 'sequelize_config.json'),
+  "models-path": path.resolve('./server/dao/models'),
+  "seeders-path": path.resolve('./server/dao/seeders'),
+  "migrations-path": path.resolve('./server/dao/migrations')
+};

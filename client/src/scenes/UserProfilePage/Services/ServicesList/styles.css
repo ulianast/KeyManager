@@ -1,0 +1,9 @@
+.search-input{
+	margin-bottom: 24px;
+}
+.control-fields {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 21px;
+    align-items: baseline;
+}

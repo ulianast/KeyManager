@@ -1,0 +1,4 @@
+const EDIT_MODE = 'EDIT';
+const CREATE_MODE = 'CREATE';
+
+export { EDIT_MODE, CREATE_MODE }

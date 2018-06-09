@@ -1,0 +1,41 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:3001/",
+  "dependencies": {
+    "@material-ui/icons": "^1.0.0-beta.43",
+    "axios": "^0.18.0",
+    "blob-stream": "^0.1.3",
+    "date-fns": "^1.29.0",
+    "downshift": "^1.31.14",
+    "form-data": "^2.3.2",
+    "keycode": "^2.2.0",
+    "lodash": "^4.17.5",
+    "material-ui": "^1.0.0-beta.42",
+    "pdfkit": "^0.8.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-date-range": "^0.9.4",
+    "react-dates": "^16.7.0",
+    "react-dom": "^16.2.0",
+    "react-dropzone": "^4.2.10",
+    "react-input-mask": "^1.2.2",
+    "react-pdf": "^3.0.4",
+    "react-popper": "^0.10.4",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-select": "^1.2.1",
+    "react-tap-event-plugin": "^3.0.2",
+    "webfontloader": "^1.6.28",
+    "xlsx": "^0.12.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start-https": "set HTTPS=true&react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

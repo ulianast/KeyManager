@@ -1,0 +1,21 @@
+.profile-main {
+	height: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+.field-item-label {
+    margin: 0 0 20px 0;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.54)
+}
+.field-item-val {
+    font-size: 25px;
+    margin:0;
+}
+.field-item {
+    max-width: 50%;
+    margin: 0 auto;
+}
+.account-inf-block{
+    margin-top: 40px;
+}

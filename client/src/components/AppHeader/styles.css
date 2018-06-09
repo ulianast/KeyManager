@@ -1,0 +1,25 @@
+.menu-appbar .field-item-value{
+	color: white;
+}
+li.field-item-container {
+    display: flex;
+    flex-direction: column;
+    overflow: unset;
+    align-items: baseline;
+    margin-bottom: 12px;
+	line-height: normal;
+    height: 25px;
+}
+li.field-item-container p {
+    margin: 0;
+}
+.header-toolbar {
+	justify-content: space-between;
+}
+.popper-appbar {
+	z-index: 999;
+	margin-top: 7px;
+}
+div.menu-appbar {
+	background-color: #424242
+}

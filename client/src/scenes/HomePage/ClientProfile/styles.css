@@ -1,0 +1,53 @@
+p.expansion-list-header-item {
+	font-size: 1.5rem;
+    flex-basis: 60%;
+    flex-shrink: 0;
+    text-align: left;
+}
+p.expansion-list-header-item-secondary {
+	color: rgba(0, 0, 0, 0.54);
+    font-size: 1.3rem;
+    margin: 0;
+}
+.header-paper {
+    display: flex;
+    justify-content: space-around;
+}
+.phone-header-card {
+	font-size: 50px;
+    font-weight: 800;
+    align-self: center;
+}
+.services-header-card div {
+	margin: 20px auto 20px;
+}
+.services-header-card-title {
+    font-size: 20px;
+}
+.services-header-card-circle {
+	margin: 0 auto 20px;
+}
+.vertical-separator {
+    color: transparent;
+    width: 1px;
+    margin: 20px;
+    background-color: darkgrey;
+}
+.licence-line {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.flex-column{
+	flex-direction: column;
+}
+.licence-code {
+    font-size: 20px;
+    font-weight: bold;
+}
+div.red-hot-chili-peppers {
+	color: #fff;
+	background-color: brown;
+}

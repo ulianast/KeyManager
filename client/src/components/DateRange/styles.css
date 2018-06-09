@@ -1,0 +1,33 @@
+.date-picker-absolute {
+	position: absolute;
+	z-index: 1000;
+    margin-top: 16px;
+}
+.active-container {
+	padding: 10px 0; 
+	text-align: left;
+}
+div.date-select-chip {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+div.date-select-chip.selected {
+    background-color: brown;
+    color: white;
+}
+.chip-container {
+	margin-left: 10px;
+    flex: 1 1 auto;
+}
+.date-picker-container {
+	text-align: center;
+}
+.date-select-container {
+	display: flex;
+	align-items: baseline;
+}
+.active-date-container {
+    flex: 1 0 auto;
+}
+
